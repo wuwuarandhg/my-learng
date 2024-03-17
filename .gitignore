@@ -6,6 +6,19 @@ __pycache__/
 # C extensions
 *.so
 .idea/
+.idea/.gitignore
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/my-learng.iml
+.idea/vcs.xml
+
+
+
+
+
+
 # Distribution / packaging
 .Python
 build/
